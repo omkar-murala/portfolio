@@ -244,7 +244,7 @@ Edit
 3. Copy everything from the above block **as-is** and paste it inside the file.
 4. Save and commit it.
 
-Let me know if you want me to generate a `.md` file directly, or help you auto-deploy it to GitHub Pages or Vercel!
+
 
 
 
